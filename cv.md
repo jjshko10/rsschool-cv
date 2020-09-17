@@ -29,9 +29,6 @@ const findSubsInString = (subs, string) => {
 }
 ```
 
-## My Project  
-* [GitHub](https://github.com/jjshko10)
-
 ## Education 
 
 #### **Belarusian State University of Informatics and Radioelectronics** 
