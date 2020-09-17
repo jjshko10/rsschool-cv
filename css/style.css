@@ -1,0 +1,39 @@
+body {
+  background-color: #000000;
+  text-align: center;
+}
+
+main {
+  color: #ffffff;
+}
+
+h2 {
+  color: red;
+}
+
+h3 {
+  color: green;
+}
+
+.name {
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  color: #fff;
+}
+
+.my-avatar {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 389px;
+  width: 389px;
+  background-color: #fff;
+  border-radius: 50%;
+  background-image: url(../img/avatar.jpg);
+  background-repeat: no-repeat;
+  background-position: -280px -300px;
+  border: 13px solid #fff;
+  margin-bottom: 50px;
+}
+
+
